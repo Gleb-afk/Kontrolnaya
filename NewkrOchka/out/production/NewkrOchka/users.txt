@@ -1,0 +1,3 @@
+Petya, 2, ljwerqehdf@mail.ru, asd, ADMIN
+Maksim, dkewgfk, whef@gmail.com, 12345, USER
+Misha, 1, eufhwiu, qwe, USER
